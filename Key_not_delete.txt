@@ -5,6 +5,6 @@
 # You may pre-fill it (optional) or let the tool write it.
 # ------------------------------------------------------------
 KEY=CHAND-9W2K-7ZQ4-AP3M-2025
-BINDED_ID=optional-device-id-or-hash
+BINDED_ID=9fd06b2228b145f1b603d4e120f334a7
 ACTIVATED_AT=2025-09-03T00:56:48Z
 SKIP_VERIFICATION=1
