@@ -1,0 +1,9 @@
+# Expire.txt
+# ------------------------------------------------------------
+# Expiry control for the tool.
+# STATUS=ACTIVE or EXPIRED
+# EXPIRES_ON in YYYY-MM-DD (optional). If STATUS=EXPIRED, tool should block.
+# ------------------------------------------------------------
+STATUS=ACTIVE
+EXPIRES_ON=2026-12-31
+MESSAGE=Valid subscription. Thank you!

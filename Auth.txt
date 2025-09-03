@@ -1,0 +1,8 @@
+# Auth.txt
+# ------------------------------------------------------------
+# VALID KEYS (one per line). Lines starting with # are ignored.
+# Example keys below — replace with your own. Keep the format simple.
+# ------------------------------------------------------------
+CHAND-9W2K-7ZQ4-AP3M-2025
+NADEEM-1A2B-3C4D-5E6F-2025
+VIP-ABCD-EFGH-IJKL-2026
